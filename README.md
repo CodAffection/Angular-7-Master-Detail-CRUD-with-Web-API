@@ -15,11 +15,11 @@
 alt="Video Tutorial for Angular 7 Master-Detail CRUD with Web API" width="500" height="400" border="10" /></a>
 
  ##### Part 2
- Video Tutorial : https://youtu.be/R2dOyHJu4a8
+ Video Tutorial : https://youtu.be/8tMmqswQTl0
  
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=R2dOyHJu4a8
-" target="_blank"><img src="http://img.youtube.com/vi/R2dOyHJu4a8/0.jpg" 
-alt="Video Tutorial for Angular 7 Master-Detail CRUD with Web API" width="500" height="400" border="10" /></a>
+ <a href="http://www.youtube.com/watch?feature=player_embedded&v=8tMmqswQTl0
+" target="_blank"><img src="http://img.youtube.com/vi/8tMmqswQTl0/0.jpg" 
+alt="Video Tutorial for Angular 7 Master-Detail CRUD with Web API- Part 2" width="500" height="400" border="10" /></a>
 
 
 # All Video Tutorial Series
