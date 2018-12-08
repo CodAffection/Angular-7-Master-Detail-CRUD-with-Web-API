@@ -6,7 +6,7 @@
  
 
  # Step By Step Explanation (Available on 10-12-2018)
- #####Part 1
+ ##### Part 1
  
  Video Tutorial : https://youtu.be/R2dOyHJu4a8
  
@@ -14,7 +14,7 @@
 " target="_blank"><img src="http://img.youtube.com/vi/R2dOyHJu4a8/0.jpg" 
 alt="Video Tutorial for Angular 7 Master-Detail CRUD with Web API" width="500" height="400" border="10" /></a>
 
- #####Part 2
+ ##### Part 2
  Video Tutorial : https://youtu.be/R2dOyHJu4a8
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=R2dOyHJu4a8
